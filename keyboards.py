@@ -11,7 +11,7 @@ main = ReplyKeyboardMarkup(keyboard=[
 
 inline_main = InlineKeyboardMarkup(inline_keyboard=[
     [InlineKeyboardButton(text='YouTube', url='https://youtube.com/@sudoteach')],
-    [InlineKeyboardButton(text='Telegram', url='https://t.me/sudoteach')]
+    [InlineKeyboardButton(text='Telegram', url='https://t.me/prostooyura')]
 ])
 
 open_youtube = InlineKeyboardMarkup(inline_keyboard=[
